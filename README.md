@@ -1,3 +1,3 @@
 # Tableau-Dashboards
 ### DASHBOARD
-![App Screenshot](Veefriendsdashboardpng.PNG)
+![App Screenshot](Veefriendsdashboardpng.png)
