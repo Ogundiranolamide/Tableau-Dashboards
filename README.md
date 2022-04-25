@@ -7,6 +7,7 @@
 ![App Screenshot](What_would_Americans_eat_for_thanksgiving_this_year.png)
 ### 3
 ![App Screenshot](Emergency_response_incidence_in_NewYorkCity_Dashboard.png)
-![App Screenshot](NCAA_DI _Active_Coaches.png)
+![App Screenshot](NCAA_DI_Active_Coaches.png)
 ![App Screenshot](OECD_Unemployment.png)
-![App Screenshot](Twitch_new_dashboard.png) ![App Screenshot](Tesla.png)
+![App Screenshot](Twitch_new_dashboard.png) 
+![App Screenshot](Tesla.png)
