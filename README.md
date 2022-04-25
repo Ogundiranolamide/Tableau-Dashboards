@@ -9,5 +9,4 @@
 ![App Screenshot](Emergency_response_incidence_in_NewYorkCity_Dashboard.png)
 ![App Screenshot](NCAA_DI _Active_Coaches.png)
 ![App Screenshot](OECD_Unemployment.png)
-![App Screenshot](Twitch_new_dashboard.png)
-![App Screenshot](Tesla.png)
+![App Screenshot](Twitch_new_dashboard.png) ![App Screenshot](Tesla.png)
